@@ -254,7 +254,7 @@ Python中字符串处理函数 ljust(), rjust() 和 center() 提供了更强大�
   Age         : 25
   Address     : BeiJing China
 
-左对齐 rjust() 示例:
+右对齐 rjust() 示例:
 
 .. code-block:: python
   :linenos:
